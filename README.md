@@ -18,10 +18,10 @@ Também tenho experiência com controle de versão via **Git**, criação de moc
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=wesley-gaspar&theme=algolia" />
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=wesley-gaspar&theme=algolia" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesley-gaspar&layout=compact&langs_count=8&theme=algolia&card_width=320" />
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wesley-gaspar&layout=compact&langs_count=8&theme=algolia&card_width=320" />
   </a>
 </div>
 
