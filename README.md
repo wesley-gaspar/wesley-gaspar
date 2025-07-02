@@ -7,7 +7,7 @@ Contribuí ativamente em projetos como:
 - **Extensão do VS Code**: desenvolvi uma interface para leitura contextual de YAML, integrando com uma API existente e garantindo responsividade e aderência ao tema do editor.
 - **Chatbot corporativo**: participei do desenvolvimento e estilização da interface utilizando React, além de colaborar com a experiência do usuário (UX).
 - **Consultorias internas**: ofereci suporte e sugestões de melhorias de UI/UX para outras equipes da empresa.
-0 **Contribuição Open Source**: contribuí para o [Carbon Design System, da IBM](https://github.com/carbon-design-system/carbon-components-vue) realizando a migração do componente `CvToggle` de **Vue 2 para Vue 3**. Acesse o PR [aqui](https://github.com/carbon-design-system/carbon-components-vue/pull/1467).
+- **Contribuição Open Source**: contribuí para o [Carbon Design System, da IBM](https://github.com/carbon-design-system/carbon-components-vue) realizando a migração do componente `CvToggle` de **Vue 2 para Vue 3**. Acesse o PR [aqui](https://github.com/carbon-design-system/carbon-components-vue/pull/1467).
 
 
 Também tenho experiência com controle de versão via **Git**, criação de mockups utilizando **Figma**, uso de **Axios** para requisições HTTP, e conhecimento em boas práticas de documentação e apresentação de projetos. Estou sempre buscando aprimorar minhas habilidades e contribuir com soluções que façam diferença.
